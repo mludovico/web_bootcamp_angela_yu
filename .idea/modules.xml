@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/note_keeper.iml" filepath="$PROJECT_DIR$/note_keeper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/react_contact.iml" filepath="$PROJECT_DIR$/react_contact.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/web_bootcamp_angela_yu.iml" filepath="$PROJECT_DIR$/.idea/web_bootcamp_angela_yu.iml" />
+    </modules>
+  </component>
+</project>

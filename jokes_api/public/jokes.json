@@ -1,0 +1,502 @@
+[
+  {
+    "id": 1,
+    "joke": "Why don't skeletons fight each other? They don't have the guts.",
+    "rating": 5
+  },
+  {
+    "id": 2,
+    "joke": "What do you call an alligator in a vest? An investigator!",
+    "rating": 4
+  },
+  {
+    "id": 3,
+    "joke": "I'm reading a book on anti-gravity. It's impossible to put down!",
+    "rating": 3
+  },
+  {
+    "id": 4,
+    "joke": "What do you get when you cross a snowman with a vampire? Frostbite.",
+    "rating": 2
+  },
+  {
+    "id": 5,
+    "joke": "Did you hear about the guy who invented Lifesavers? He made a mint!",
+    "rating": 4
+  },
+  {
+    "id": 6,
+    "joke": "Why don't scientists trust atoms? Because they make up everything!",
+    "rating": 5
+  },
+  {
+    "id": 7,
+    "joke": "Parallel lines have so much in common. It's a shame they'll never meet.",
+    "rating": 3
+  },
+  {
+    "id": 8,
+    "joke": "Why did the scarecrow win an award? Because he was outstanding in his field!",
+    "rating": 4
+  },
+  {
+    "id": 9,
+    "joke": "What did one plate say to the other plate? Dinner's on me!",
+    "rating": 5
+  },
+  {
+    "id": 10,
+    "joke": "I told my wife she was drawing her eyebrows too high. She looked surprised.",
+    "rating": 2
+  },
+  {
+    "id": 11,
+    "joke": "What's orange and sounds like a parrot? A carrot!",
+    "rating": 3
+  },
+  {
+    "id": 12,
+    "joke": "Why don't we ever tell secrets on a farm? Because the potatoes have eyes and the corn has ears!",
+    "rating": 4
+  },
+  {
+    "id": 13,
+    "joke": "Why couldn't the bicycle stand up by itself? It was two tired.",
+    "rating": 5
+  },
+  {
+    "id": 14,
+    "joke": "Why did the math book look sad? Because it had too many problems.",
+    "rating": 2
+  },
+  {
+    "id": 15,
+    "joke": "What did one wall say to the other wall? I'll meet you at the corner!",
+    "rating": 4
+  },
+  {
+    "id": 16,
+    "joke": "Why did the tomato turn red? Because it saw the salad dressing!",
+    "rating": 3
+  },
+  {
+    "id": 17,
+    "joke": "I told my wife she was drawing her eyebrows too high. She looked surprised.",
+    "rating": 5
+  },
+  {
+    "id": 18,
+    "joke": "I'm on a whiskey diet. I've lost three days already!",
+    "rating": 4
+  },
+  {
+    "id": 19,
+    "joke": "Why did the coffee file a police report? It got mugged.",
+    "rating": 2
+  },
+  {
+    "id": 20,
+    "joke": "I'm reading a book about anti-gravity. It's impossible to put down!",
+    "rating": 3
+  },
+  {
+    "id": 21,
+    "joke": "Why was the math book sad? Because it had too many problems.",
+    "rating": 5
+  },
+  {
+    "id": 22,
+    "joke": "What do you call a fake noodle? An impasta!",
+    "rating": 4
+  },
+  {
+    "id": 23,
+    "joke": "What did one ocean say to the other ocean? Nothing, they just waved!",
+    "rating": 3
+  },
+  {
+    "id": 24,
+    "joke": "Why did the scarecrow become a successful neurosurgeon? He was outstanding in his field!",
+    "rating": 2
+  },
+  {
+    "id": 25,
+    "joke": "I'm trying to organize a hide and seek tournament, but it's difficult to find good players.",
+    "rating": 4
+  },
+  {
+    "id": 26,
+    "joke": "Why did the tomato turn red? Because it saw the salad dressing!",
+    "rating": 5
+  },
+  {
+    "id": 27,
+    "joke": "Why couldn't the leopard play hide and seek? Because he was always spotted!",
+    "rating": 3
+  },
+  {
+    "id": 28,
+    "joke": "I used to be a baker, but I couldn't make enough dough.",
+    "rating": 4
+  },
+  {
+    "id": 29,
+    "joke": "Why did the bicycle fall over? Because it was two-tired!",
+    "rating": 2
+  },
+  {
+    "id": 30,
+    "joke": "What did the janitor say when he jumped out of the closet? Supplies!",
+    "rating": 3
+  },
+  {
+    "id": 31,
+    "joke": "Why don't eggs tell jokes? Because they'd crack each other up!",
+    "rating": 5
+  },
+  {
+    "id": 32,
+    "joke": "What did the left eye say to the right eye? Between you and me, something smells.",
+    "rating": 4
+  },
+  {
+    "id": 33,
+    "joke": "Why did the scarecrow win an award? Because he was outstanding in his field!",
+    "rating": 2
+  },
+  {
+    "id": 34,
+    "joke": "I used to be a baker, but I couldn't make enough dough.",
+    "rating": 4
+  },
+  {
+    "id": 35,
+    "joke": "Why was the math book sad? Because it had too many problems.",
+    "rating": 3
+  },
+  {
+    "id": 36,
+    "joke": "Why don't scientists trust atoms? Because they make up everything!",
+    "rating": 5
+  },
+  {
+    "id": 37,
+    "joke": "What do you call a bear with no teeth? A gummy bear!",
+    "rating": 2
+  },
+  {
+    "id": 38,
+    "joke": "I'm on a whiskey diet. I've lost three days already!",
+    "rating": 4
+  },
+  {
+    "id": 39,
+    "joke": "Why did the bicycle fall over? Because it was two-tired!",
+    "rating": 5
+  },
+  {
+    "id": 40,
+    "joke": "I'm reading a book about anti-gravity. It's impossible to put down!",
+    "rating": 3
+  },
+  {
+    "id": 41,
+    "joke": "What did one plate say to the other plate? Dinner's on me!",
+    "rating": 4
+  },
+  {
+    "id": 42,
+    "joke": "What's orange and sounds like a parrot? A carrot!",
+    "rating": 5
+  },
+  {
+    "id": 43,
+    "joke": "Why did the math book look sad? Because it had too many problems.",
+    "rating": 3
+  },
+  {
+    "id": 44,
+    "joke": "Why don't we ever tell secrets on a farm? Because the potatoes have eyes and the corn has ears!",
+    "rating": 2
+  },
+  {
+    "id": 45,
+    "joke": "What do you get when you cross a snowman with a vampire? Frostbite.",
+    "rating": 4
+  },
+  {
+    "id": 46,
+    "joke": "Why don't eggs tell jokes? Because they'd crack each other up!",
+    "rating": 5
+  },
+  {
+    "id": 47,
+    "joke": "Why couldn't the leopard play hide and seek? Because he was always spotted!",
+    "rating": 3
+  },
+  {
+    "id": 48,
+    "joke": "I used to be a baker, but I couldn't make enough dough.",
+    "rating": 4
+  },
+  {
+    "id": 49,
+    "joke": "Why did the scarecrow win an award? Because he was outstanding in his field!",
+    "rating": 2
+  },
+  {
+    "id": 50,
+    "joke": "I'm trying to organize a hide and seek tournament, but it's difficult to find good players.",
+    "rating": 4
+  },
+  {
+    "id": 51,
+    "joke": "Why did the tomato turn red? Because it saw the salad dressing!",
+    "rating": 5
+  },
+  {
+    "id": 52,
+    "joke": "What did the left eye say to the right eye? Between you and me, something smells.",
+    "rating": 4
+  },
+  {
+    "id": 53,
+    "joke": "What do you call a bear with no teeth? A gummy bear!",
+    "rating": 2
+  },
+  {
+    "id": 54,
+    "joke": "I'm on a whiskey diet. I've lost three days already!",
+    "rating": 4
+  },
+  {
+    "id": 55,
+    "joke": "Why did the bicycle fall over? Because it was two-tired!",
+    "rating": 5
+  },
+  {
+    "id": 56,
+    "joke": "I'm reading a book about anti-gravity. It's impossible to put down!",
+    "rating": 3
+  },
+  {
+    "id": 57,
+    "joke": "What did one plate say to the other plate? Dinner's on me!",
+    "rating": 4
+  },
+  {
+    "id": 58,
+    "joke": "What's orange and sounds like a parrot? A carrot!",
+    "rating": 5
+  },
+  {
+    "id": 59,
+    "joke": "Why did the math book look sad? Because it had too many problems.",
+    "rating": 3
+  },
+  {
+    "id": 60,
+    "joke": "Why don't we ever tell secrets on a farm? Because the potatoes have eyes and the corn has ears!",
+    "rating": 2
+  },
+  {
+    "id": 61,
+    "joke": "What do you call a bear with no teeth? A gummy bear!",
+    "rating": 4
+  },
+  {
+    "id": 62,
+    "joke": "I'm on a whiskey diet. I've lost three days already!",
+    "rating": 5
+  },
+  {
+    "id": 63,
+    "joke": "Why did the bicycle fall over? Because it was two-tired!",
+    "rating": 3
+  },
+  {
+    "id": 64,
+    "joke": "I'm reading a book about anti-gravity. It's impossible to put down!",
+    "rating": 4
+  },
+  {
+    "id": 65,
+    "joke": "What did one plate say to the other plate? Dinner's on me!",
+    "rating": 5
+  },
+  {
+    "id": 66,
+    "joke": "What's orange and sounds like a parrot? A carrot!",
+    "rating": 2
+  },
+  {
+    "id": 67,
+    "joke": "Why did the math book look sad? Because it had too many problems.",
+    "rating": 4
+  },
+  {
+    "id": 68,
+    "joke": "Why don't we ever tell secrets on a farm? Because the potatoes have eyes and the corn has ears!",
+    "rating": 3
+  },
+  {
+    "id": 69,
+    "joke": "Why did the scarecrow win an award? Because he was outstanding in his field!",
+    "rating": 5
+  },
+  {
+    "id": 70,
+    "joke": "I'm trying to organize a hide and seek tournament, but it's difficult to find good players.",
+    "rating": 2
+  },
+  {
+    "id": 71,
+    "joke": "Why did the tomato turn red? Because it saw the salad dressing!",
+    "rating": 4
+  },
+  {
+    "id": 72,
+    "joke": "What did the left eye say to the right eye? Between you and me, something smells.",
+    "rating": 5
+  },
+  {
+    "id": 73,
+    "joke": "What do you call a bear with no teeth? A gummy bear!",
+    "rating": 3
+  },
+  {
+    "id": 74,
+    "joke": "I'm on a whiskey diet. I've lost three days already!",
+    "rating": 4
+  },
+  {
+    "id": 75,
+    "joke": "Why did the bicycle fall over? Because it was two-tired!",
+    "rating": 2
+  },
+  {
+    "id": 76,
+    "joke": "I'm reading a book about anti-gravity. It's impossible to put down!",
+    "rating": 3
+  },
+  {
+    "id": 77,
+    "joke": "What did one plate say to the other plate? Dinner's on me!",
+    "rating": 4
+  },
+  {
+    "id": 78,
+    "joke": "What's orange and sounds like a parrot? A carrot!",
+    "rating": 5
+  },
+  {
+    "id": 79,
+    "joke": "Why did the math book look sad? Because it had too many problems.",
+    "rating": 3
+  },
+  {
+    "id": 80,
+    "joke": "Why don't we ever tell secrets on a farm? Because the potatoes have eyes and the corn has ears!",
+    "rating": 2
+  },
+  {
+    "id": 81,
+    "joke": "What do you call a bear with no teeth? A gummy bear!",
+    "rating": 4
+  },
+  {
+    "id": 82,
+    "joke": "I'm on a whiskey diet. I've lost three days already!",
+    "rating": 5
+  },
+  {
+    "id": 83,
+    "joke": "Why did the bicycle fall over? Because it was two-tired!",
+    "rating": 3
+  },
+  {
+    "id": 84,
+    "joke": "I'm reading a book about anti-gravity. It's impossible to put down!",
+    "rating": 4
+  },
+  {
+    "id": 85,
+    "joke": "What did one plate say to the other plate? Dinner's on me!",
+    "rating": 5
+  },
+  {
+    "id": 86,
+    "joke": "What's orange and sounds like a parrot? A carrot!",
+    "rating": 2
+  },
+  {
+    "id": 87,
+    "joke": "Why did the math book look sad? Because it had too many problems.",
+    "rating": 4
+  },
+  {
+    "id": 88,
+    "joke": "Why don't we ever tell secrets on a farm? Because the potatoes have eyes and the corn has ears!",
+    "rating": 3
+  },
+  {
+    "id": 89,
+    "joke": "Why did the scarecrow win an award? Because he was outstanding in his field!",
+    "rating": 5
+  },
+  {
+    "id": 90,
+    "joke": "I'm trying to organize a hide and seek tournament, but it's difficult to find good players.",
+    "rating": 2
+  },
+  {
+    "id": 91,
+    "joke": "Why did the tomato turn red? Because it saw the salad dressing!",
+    "rating": 4
+  },
+  {
+    "id": 92,
+    "joke": "What did the left eye say to the right eye? Between you and me, something smells.",
+    "rating": 5
+  },
+  {
+    "id": 93,
+    "joke": "What do you call a bear with no teeth? A gummy bear!",
+    "rating": 3
+  },
+  {
+    "id": 94,
+    "joke": "I'm on a whiskey diet. I've lost three days already!",
+    "rating": 4
+  },
+  {
+    "id": 95,
+    "joke": "Why did the bicycle fall over? Because it was two-tired!",
+    "rating": 2
+  },
+  {
+    "id": 96,
+    "joke": "I'm reading a book about anti-gravity. It's impossible to put down!",
+    "rating": 3
+  },
+  {
+    "id": 97,
+    "joke": "What did one plate say to the other plate? Dinner's on me!",
+    "rating": 4
+  },
+  {
+    "id": 98,
+    "joke": "What's orange and sounds like a parrot? A carrot!",
+    "rating": 5
+  },
+  {
+    "id": 99,
+    "joke": "Why did the math book look sad? Because it had too many problems.",
+    "rating": 3
+  },
+  {
+    "id": 100,
+    "joke": "Why don't we ever tell secrets on a farm? Because the potatoes have eyes and the corn has ears!",
+    "rating": 2
+  }
+]

@@ -1,0 +1,106 @@
+:root {
+    --primary-color: #edb51d;
+    --secondary-color: #f0f0f0;
+    --tertiary-color: #666666;
+    --nav-bar-height: 3rem;
+    --footer-height: 2rem;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #f0f0f0;
+}
+
+.outer-container {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+}
+
+.nav-bar {
+    background-color: var(--primary-color);
+    color: var(--secondary-color);
+    padding: 10px;
+    margin: 0;
+
+    font-family: "Comic Sans MS", serif;
+    box-shadow: var(--tertiary-color) 0 0 10px;
+}
+
+.create-note-card {
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+    margin: 30px 40px 10px 40px;
+    padding: 5px 20px 20px 20px;
+    border-radius: 10px;
+    box-shadow: var(--tertiary-color) 0 0 10px;
+    justify-content: center;
+}
+
+.create-note-card input, textarea {
+    font-size: 1.5rem;
+    margin: 10px;
+    padding: 5px;
+    border: none;
+}
+
+.create-note-card textarea {
+    resize: none;
+    height: 100px;
+}
+
+.notes-list {
+    overflow-y: scroll;
+    flex: max(1, 1);
+}
+
+.notes-list ul {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 10px;
+    padding: 0;
+}
+
+.note-card {
+    font-family: Helvetica, serif;
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+    margin: 10px;
+    padding: 5px 20px 20px 20px;
+    border-radius: 10px;
+    box-shadow: var(--tertiary-color) 0 0 10px;
+    color: var(--tertiary-color);
+}
+
+.footer {
+    color: #999999;
+    padding: 10px;
+    margin: 0;
+    height: var(--footer-height);
+    font-family: "Comic Sans MS", serif;
+    text-align: center;
+}
+
+.action-bar {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.note-card-button {
+    max-width: 200px;
+    min-width: 100px;
+    border: none;
+    background-color: var(--primary-color);
+    padding: 10px;
+    color: var(--secondary-color);
+    border-radius: 5px;
+    font-family: Helvetica, serif;
+    text-transform: uppercase;
+}
+
+.done {
+    text-decoration: line-through;
+}

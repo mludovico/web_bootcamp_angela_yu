@@ -1,0 +1,17 @@
+<html lang="pt">
+    <body>
+    <h1> <%= title %> </h1>
+    <p>Current second <%=  currentSeconds %></p>
+    <% if (currentSeconds % 2 == 0) { %>
+        <ul>
+            <% for (let fruit of fruits) { %>
+                <li><%= fruit %></li>
+            <% } %>
+        </ul>
+    <% } else { %>
+        <p> Nada para mostrar </p>
+    <% } %>
+    <%- bottomLine %>
+    <%- include("footer.ejs") %>
+    </body>
+</html>
